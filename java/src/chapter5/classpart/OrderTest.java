@@ -1,4 +1,4 @@
-package classpart;
+package chapter5.classpart;
 
 public class OrderTest {
     public static void main(String[] args){
